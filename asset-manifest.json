@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ach_wafi/static/css/main.3cbc51fa.chunk.css",
+    "main.js": "/ach_wafi/static/js/main.d8e3aa20.chunk.js",
+    "main.js.map": "/ach_wafi/static/js/main.d8e3aa20.chunk.js.map",
+    "runtime-main.js": "/ach_wafi/static/js/runtime-main.6cf8d36a.js",
+    "runtime-main.js.map": "/ach_wafi/static/js/runtime-main.6cf8d36a.js.map",
+    "static/css/2.06689f82.chunk.css": "/ach_wafi/static/css/2.06689f82.chunk.css",
+    "static/js/2.4d36a37b.chunk.js": "/ach_wafi/static/js/2.4d36a37b.chunk.js",
+    "static/js/2.4d36a37b.chunk.js.map": "/ach_wafi/static/js/2.4d36a37b.chunk.js.map",
+    "index.html": "/ach_wafi/index.html",
+    "static/css/2.06689f82.chunk.css.map": "/ach_wafi/static/css/2.06689f82.chunk.css.map",
+    "static/css/main.3cbc51fa.chunk.css.map": "/ach_wafi/static/css/main.3cbc51fa.chunk.css.map",
+    "static/js/2.4d36a37b.chunk.js.LICENSE.txt": "/ach_wafi/static/js/2.4d36a37b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6cf8d36a.js",
+    "static/css/2.06689f82.chunk.css",
+    "static/js/2.4d36a37b.chunk.js",
+    "static/css/main.3cbc51fa.chunk.css",
+    "static/js/main.d8e3aa20.chunk.js"
+  ]
+}
